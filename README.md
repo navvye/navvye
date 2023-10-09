@@ -19,5 +19,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![My Coding Stats](https://github-readme-stats.vercel.app/api/top-langs?username=navvye&theme=algolia&showicons=true)](https://github.com/saifurrahman1193)
-
+<div align = "center">
+  [![My Coding Stats](https://github-readme-stats.vercel.app/api/top-langs?username=navvye&theme=algolia&showicons=true)](https://github.com/saifurrahman1193)
+</div>
