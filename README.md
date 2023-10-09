@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <br><br>
   <a href="https://github.com/saifurrahman1193">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navvye&theme=algolia&showicons=true" align="center" />
+    <br>
+    <br>
+    <br>
    <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/>
   </a>
 </div>
