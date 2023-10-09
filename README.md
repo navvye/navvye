@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
-
-[![My Coding Stats](https://github-readme-stats.vercel.app/api/top-langs?username=navvye&theme=algolia&showicons=true)](https://github.com/saifurrahman1193)
-
+  <br><br>
+  <a href="https://github.com/saifurrahman1193">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navvye&theme=algolia&showicons=true" align="center" />
+  </a>
 </div>
 
