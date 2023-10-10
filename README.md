@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br><br>
   <a href="https://github.com/saifurrahman1193">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navvye&ignore=html,php,css&theme=algolia&showicons=true" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navvye&ignore=HTML,CSS&theme=algolia&showicons=true" align="center" />
     <br>
     <br>
     <br>
