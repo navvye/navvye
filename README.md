@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   </p>
     <br>
     <br>
-    <br>
     <p align = "center" >
    <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/> 
     </p>
