@@ -24,7 +24,8 @@ Here are some ideas to get you started:
     <br>
     <br>
     <p align = "center" >
-   <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/>  </p>
+   <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/> 
+    </p>
   </a>
 </div>
 
