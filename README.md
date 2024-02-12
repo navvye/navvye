@@ -23,7 +23,8 @@ Here are some ideas to get you started:
     <br>
     <br>
     <br>
-   <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/>
+    <p align = "center" >
+   <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/>  </p>
   </a>
 </div>
 
