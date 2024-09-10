@@ -1,23 +1,5 @@
 ## Navvye's Stats
 
-<!--
-**navvye/navvye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...![overview](https://github.com/user-attachments/assets/3a82e7cc-15ac-4585-af6f-8701e7e49144)
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...![Uploading overview.svg…]()
-
--->
-
-
 
 <p align = "center">
 <img width="208" alt="Screenshot 2024-02-12 at 11 57 18 PM" src="https://github.com/navvye/navvye/assets/25653940/ae1bed15-a2cb-4baf-b042-977810a2def8"> </p>
