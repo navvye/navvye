@@ -2,7 +2,8 @@
 
 
 <p align = "center">
-<img width="208" alt="Screenshot 2024-02-12 at 11 57 18 PM" src="https://github.com/navvye/navvye/assets/25653940/ae1bed15-a2cb-4baf-b042-977810a2def8"> </p>
+<img width="208" alt="Screenshot 2024-09-11 at 1 02 58 PM" src="https://github.com/user-attachments/assets/b99e7b95-0db5-421a-8c16-e7b09ce791fc">
+
 <p align = "center">
 <img width="335" alt="Screenshot 2024-08-30 at 12 57 28 PM" src="https://github.com/user-attachments/assets/49ef1fe9-7844-4cf9-a6b5-4c0738671c6e">
 
