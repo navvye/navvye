@@ -11,8 +11,6 @@
 <p align = "center">
   <a href="https://github.com/saifurrahman1193">
   </p>
-    <br>
-    <br>
     <p align = "center" >
    <img src = "https://komarev.com/ghpvc/?username=navvye" align = "center"/> 
     </p>
