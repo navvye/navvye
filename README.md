@@ -10,7 +10,6 @@
 </p>
 <p align = "center">
   <a href="https://github.com/saifurrahman1193">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navvye&ignore=HTML,CSS&theme=algolia&showicons=true" align="center" />
   </p>
     <br>
     <br>
